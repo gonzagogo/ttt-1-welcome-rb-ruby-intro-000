@@ -3,5 +3,4 @@
 # ruby lib/welcome.rb from your terminal.
 puts "Welcome to Tic Tac Toe!"
 ruby Welcome_to_Tic_Tac_Toe!.#!/usr/bin/env ruby -wKU
-
 learn "Welcome to Tic Tac Toe!"
